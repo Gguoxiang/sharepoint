@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="ZoomChartsSharePoint2013.TimeChartWebPart.WebPart, $SharePoint.Project.AssemblyFullName$" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">TimeChart</property>
+        <property name="Description" type="string">Web Part that enables embedding ZoomCharts TimeChart into SharePoint application.</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

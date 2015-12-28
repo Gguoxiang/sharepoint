@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="4f23f478-fd6b-4ed6-829b-bd3834a50662" solutionId="4f23f478-fd6b-4ed6-829b-bd3834a50662" resetWebServer="false" sharePointProductVersion="15.0" name="ZoomChartsSharePoint2013" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="5d9ce1a6-4be0-4210-8877-0c06ab9c75ca" />
+  </features>
+</package>
